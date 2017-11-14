@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<PlayingInTraffic>
+  <Users>
+    <User id="0" name="default">
+      <GameStats>
+        <GeneralStats>
+          <TotalGamePoints>1259739</TotalGamePoints>
+          <TotalGameTimeInMinutes>19</TotalGameTimeInMinutes>
+          <TotalGamesPlayed>17</TotalGamesPlayed>
+          <TotalRandomEvents>0</TotalRandomEvents>
+          <TotalDeaths>0</TotalDeaths>
+        </GeneralStats>
+        <PickupStats>
+          <TotalPickupsCollected>8558</TotalPickupsCollected>
+          <TotalLevelUps>5230</TotalLevelUps>
+          <PickupType>
+            <DecreaseTrafficSpeed>
+              <TotalPickups>870</TotalPickups>
+              <MaxLevel>5</MaxLevel>
+            </DecreaseTrafficSpeed>
+            <IncreaseTrafficSpeed>
+              <TotalPickups>1284</TotalPickups>
+              <MaxLevel>15</MaxLevel>
+            </IncreaseTrafficSpeed>
+            <IncreasePlayerSpeed>
+              <TotalPickups>432</TotalPickups>
+              <MaxLevel>7</MaxLevel>
+            </IncreasePlayerSpeed>
+            <DecreasePlayerSpeed>
+              <TotalPickups>640</TotalPickups>
+              <MaxLevel>11</MaxLevel>
+            </DecreasePlayerSpeed>
+            <ScoreMultiplier>
+              <TotalPickups>1872</TotalPickups>
+              <MaxLevel>642</MaxLevel>
+            </ScoreMultiplier>
+            <CarDestroyer>
+              <TotalPickups>1872</TotalPickups>
+              <MaxLevel>642</MaxLevel>
+            </CarDestroyer>
+          </PickupType>
+        </PickupStats>
+        <TrafficStats>
+          <CarsDestroyed>0</CarsDestroyed>
+          <AggressiveDrivers>0</AggressiveDrivers>
+          <PassiveDrivers>0</PassiveDrivers>
+          <AccidentsCaused>0</AccidentsCaused>
+          <TotalCarsSpawned>0</TotalCarsSpawned>
+        </TrafficStats>
+      </GameStats>
+    </User>
+  </Users>
+</PlayingInTraffic>
